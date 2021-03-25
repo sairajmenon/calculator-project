@@ -1,6 +1,6 @@
 # calculator-project
 
-Live demo of this application has been hosted on Amazon AWS at: http://10.240.8.47/
+Live demo of this application has been hosted on Amazon AWS at: http://3.140.238.8/
 
 Overview for the calculator app:
 
