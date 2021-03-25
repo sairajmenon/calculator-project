@@ -4,12 +4,12 @@ Live demo of this application has been hosted on Amazon AWS at: http://10.240.8.
 
 Overview for the calculator app:
 
-This calculator app has been developed to do basic arithmetic operations. The goal of the application is to do basic calculations and have those results shared across multiple users. Some of the features and functionalities of the app are:
+The goal of this application is to do basic calculations and have those results shared across multiple users. For this app:
 
 1. The frontend has been developed using Angular framework and the backend using Node.js
 2. On the frontend, I have used material components for designing a simple layout for the calculator.
 3. After every calculation, the result of the same is posted to the backend where it is stored in an array of results. It maintains a list of the last 10 operations along with its results.
-4. The frontend makes a call to the backend to fetch recursively to get the updated data and display on the frontend.
+4. The frontend makes a call to the backend to fetch recursively and get the updated data which is then displayed on the frontend.
 
 Things that could be added/changed to the implementation:
 
