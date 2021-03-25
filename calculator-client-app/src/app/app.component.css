@@ -1,0 +1,73 @@
+.calculator {
+  width: 25%;
+  min-width: 300px;
+  margin-left: 20px;
+  min-height: 285px;
+}
+
+.error-bar {
+  font-size: 11px;
+  color: red;
+  margin-left: 20px;
+  margin-bottom: 5px;
+}
+
+.calculator-screen {
+  width: 100%;
+  background-color: #ededed;
+  font-size: 32px;
+  text-align: right;
+  border: 0px;
+}
+
+.calculator-keys {
+  margin-top: 10px;
+}
+
+.num-col {
+  width:80%;
+  float: left;
+}
+
+.number-btn {
+  margin-top:10px;
+  margin-right: 15px;
+  width: calc(100%/3 - 15px);
+}
+
+.right-col {
+  width: 20%;
+  float: left;
+}
+
+.right-btn {
+  margin-top: 10px;
+  margin-right: 15px;
+  width: 100%;
+}
+
+.equals-btn {
+  margin-top: 10px;
+  width: calc(100% - 15px);
+}
+
+.result-section {
+  margin-left: 20px;
+  margin-top: 30px;
+}
+
+.mat-column-result {
+  width: calc(100%-100px);
+}
+
+.mat-column-index {
+  width: 100px;
+}
+
+.content-container {
+  margin: 20px 20px 20px 12px;
+}
+
+.card-heading {
+  margin-bottom: 10px;
+}
